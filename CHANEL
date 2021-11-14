@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="40" name="CARTOON NETWORK (ʜᴅ)" group="INFANTIL" logo="https://i.ibb.co/TmYhmSz/cartoon-network.png", CARTOON NETWORK (ʜᴅ)
+http://192.168.1.89/dash/live.mpd
+
+#EXTINF:0 type="stream" channelId="3783" name="COL: RCN" group="COLOMBIA" logo="https://i.ibb.co/HXZdKSd/RCN.png" tvg-country="co", RCN
+http://192.168.1.2/dash/live.mpd
+
+#EXTINF:0 type="stream" channelId="4773" name="COL: CARACOL (ʜᴅ)" group="COLOMBIA" logo="https://i.ibb.co/xs482LJ/caracol.png" tvg-country="co", CARACOL (ʜᴅ)
+http://192.168.1.4/dash/live.mpd
